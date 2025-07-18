@@ -1,4 +1,4 @@
-package ex1;
+package ex2;
 import java.io.*;
 import java.net.*;
 public class SocketHTTPClient {
